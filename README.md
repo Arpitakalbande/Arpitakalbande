@@ -1,6 +1,6 @@
 # Hi, I'm Arpita 👋
 
-🎓 B.Tech Computer Engineering Student | Aspiring Software & Data Professional
+🎓 B.Tech Computer Engineering Student | B.Tech Computer Engineering Student | Python • AI/ML • GenAI • Backend Development
 
 👀 **Interested in:** Python • Data Analytics • Backend Development
 
