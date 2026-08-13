@@ -15,3 +15,9 @@
 😄 **Pronouns:** She/Her
 
 ⚡ **Fun fact:** I learn best by turning concepts into real-world projects! 🚀
+
+🤝 Collaborative Project
+
+SplitEasy — Intelligent Expense Settlement Platform
+Full-stack collaborative expense management platform built with React, FastAPI, PostgreSQL and REST APIs. Contributed to the development as a collaborator.
+Repository:
