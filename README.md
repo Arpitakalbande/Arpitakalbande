@@ -8,7 +8,7 @@
 
 💻 **Building with:** Python • Flask • FastAPI • SQL • PostgreSQL • Pandas • Power BI
 
-🤝 **Looking to collaborate on:** AI/ML • Data Science • Python • Backend & Open-Source Projects
+🤝 **Looking to collaborate on:**Python | AI/ML | GenAI | LLMs | Backend | REST APIs | Data**
 
 📫 **Reach me:** LinkedIn • GitHub • Email
 
