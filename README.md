@@ -20,4 +20,4 @@
 
 SplitEasy — Intelligent Expense Settlement Platform
 Full-stack collaborative expense management platform built with React, FastAPI, PostgreSQL and REST APIs. Contributed to the development as a collaborator.
-Repository:
+Repository:https://github.com/Arpitbanait/SplitEasy
